@@ -1,229 +1,232 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sweety%20Vincent&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Builder&descAlignY=52&descSize=16" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         PROFILE HEADER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD4F7&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Full-Stack+Developer+%26+ML+Engineer+%F0%9F%9A%80;Hackathon+Enthusiast+%F0%9F%8F%86;Open+to+Collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&text=SWEETY%20VINCENT&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=ENGINEERING%20INTELLIGENCE.%20BUILDING%20IMPACT.&descAlignY=66&descSize=15&color=0:101827,50:173B5E,100:276C78" width="100%" alt="Sweety Vincent — Engineering intelligence. Building impact." />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/sweetyvincent?label=Followers&style=social)](https://github.com/sweetyvincent)
-[![GitHub stars](https://img.shields.io/github/stars/sweetyvincent?affiliations=OWNER&style=social&label=Stars)](https://github.com/sweetyvincent)
-![Profile Views](https://komarev.com/ghpvc/?username=sweetyvincent&color=blueviolet&style=flat-square&label=Profile+Views)
+### AI / ML Engineer · Full-Stack Developer · Product Builder
+
+*I turn ambitious ideas into thoughtful, useful technology — from intelligent systems to human-centred digital experiences.*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-sweetyvincent-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/sweetyvincent)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sweety-vincent/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-0F766E?style=flat-square&logo=githubpages&logoColor=white)](https://sweetyvincent.github.io)
+![Profile Views](https://komarev.com/ghpvc/?username=sweetyvincent&style=flat-square&color=64748b&label=PROFILE+VIEWS)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=67D5C2&center=true&vCenter=true&width=650&lines=Designing+AI+that+solves+real+problems.;Building+full-stack+products+from+idea+to+impact.;Exploring+multi-agent+systems%2C+RAG%2C+and+emerging+tech.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🙋‍♀️ About Me
+## 01 / The person behind the commits
 
-Hey there! I'm **Sweety Vincent** — a passionate **AI/ML Engineer** and **Full-Stack Developer** who loves building intelligent, impactful software. I thrive on hackathons, transforming bold ideas into real products in compressed timelines.
+I'm **Sweety Vincent**, an AI/ML Engineer and Full-Stack Developer interested in building technology that makes complex things simpler and meaningful things more accessible.
 
-- 🔭 Currently building: AI-powered platforms (education, marine intelligence, legal tech)
-- 🌱 Learning: Advanced RAG pipelines, multi-agent systems, AR/VR integration
-- 💡 Passionate about: AI for social good, multilingual tech, and rural empowerment
-- 🏆 Active hackathon participant — VeloHack, Ctrl+V Hackathon & more
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sweety-vincent/)
+I enjoy moving between experimentation and execution: shaping an idea, choosing the right tools, building a working product, and refining it through hands-on problem-solving. Hackathons are one of the spaces where I put that mindset into practice.
+
+- **Building now:** AI-powered experiences across education, marine intelligence, and legal technology.
+- **Exploring:** Advanced retrieval-augmented generation (RAG), multi-agent systems, and AR/VR integration.
+- **Care about:** Responsible AI, multilingual technology, and tools that support underserved communities.
+- **Beyond the build:** Hackathon projects and collaborative experimentation, including VeloHack and Ctrl+V.
+
+> **My north star:** technology should be capable, accessible, and genuinely useful.
 
 ---
 
-## 🛠️ Tech Stack
+## 02 / What I build with
+
+A practical toolkit spanning application development, AI experimentation, and deployment.
 
 <div align="center">
 
-**Languages**
+**LANGUAGES**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Frameworks & Libraries**
+**FRONTEND & BACKEND**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F766E?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**AI / ML**
+**AI, ML & DATA**
 
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Cloud & Infrastructure**
+**CLOUD & WORKFLOW**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 03 / Selected work
+
+A selection of projects exploring how AI and software can address real-world challenges.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌊 <a href="https://github.com/sweetyvincent/ORCA">ORCA — Marine AI Intelligence</a></h3>
-      <p>AI Multi-Agent Marine Intelligence System built for <strong>VeloHack 2K26 (ISRO track)</strong>. Leverages TypeScript and multi-agent orchestration for real-time ocean monitoring and analytics.</p>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Multi--Agent-AI-blueviolet?style=flat-square"/>
+      <h3>🌊 <a href="https://github.com/sweetyvincent/ORCA">ORCA</a></h3>
+      <strong>Marine intelligence · Multi-agent AI</strong>
+      <p>An AI multi-agent marine intelligence system developed for the ISRO track at VeloHack 2K26, focused on ocean monitoring and analytics.</p>
+      <sub>TypeScript · Multi-agent orchestration</sub>
     </td>
     <td width="50%" valign="top">
       <h3>📚 <a href="https://github.com/sweetyvincent/RuralVerse-AI">RuralVerse AI</a></h3>
-      <p>Intelligent, <strong>Multilingual & Immersive Rural Education Platform</strong> with Air-Writing gesture input, AR Science Lab, and offline learning capabilities.</p>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AR-Education-green?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Multilingual-AI-orange?style=flat-square"/>
+      <strong>Education · Accessibility · Immersive learning</strong>
+      <p>A multilingual rural learning platform featuring air-writing gesture input, an AR science lab, and offline learning capabilities.</p>
+      <sub>TypeScript · AR · Multilingual AI</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>⚖️ <a href="https://github.com/sweetyvincent/lexiassist">LexiAssist</a></h3>
-      <p>Enterprise-Grade <strong>GenAI Legal Assistance Platform</strong> built with Next.js 14, Gemini 1.5 Flash, Firebase, and Tailwind CSS for intelligent legal document analysis.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini-AI-blue?style=flat-square&logo=google"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <strong>Legal technology · Generative AI</strong>
+      <p>A legal assistance platform for intelligent legal-document analysis, built with Next.js 14, Gemini 1.5 Flash, Firebase, and Tailwind CSS.</p>
+      <sub>Next.js · Gemini · Firebase</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/sweetyvincent/TruthGuard">TruthGuard</a></h3>
-      <p>AI-powered <strong>misinformation detection and fact-checking</strong> system using Python and advanced NLP to guard against fake news and disinformation.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NLP-AI-red?style=flat-square"/>
+      <strong>Trust & safety · Natural language processing</strong>
+      <p>An AI-powered misinformation detection and fact-checking system using Python and NLP techniques.</p>
+      <sub>Python · NLP</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📋 <a href="https://github.com/sweetyvincent/FormEaseAI">FormEase AI</a></h3>
-      <p>Multilingual conversational copilot that simplifies <strong>government paperwork</strong> for citizens. Built for the Ctrl+V Hackathon to ease bureaucratic friction.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Hackathon-Winner-gold?style=flat-square"/>
+      <strong>Public services · Conversational AI</strong>
+      <p>A multilingual conversational copilot designed to make government paperwork easier for citizens. Built for the Ctrl+V Hackathon.</p>
+      <sub>JavaScript · Conversational AI</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🔒 <a href="https://github.com/sweetyvincent/Air-Gapped-Predictive-Copilot-for-Secure-MPLS-Operations">Air-Gapped MPLS Copilot</a></h3>
-      <p>Secure, <strong>air-gapped predictive copilot</strong> for MPLS network operations — offline AI inference for high-security network environments.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Network-Security-red?style=flat-square"/>
+      <strong>Network operations · Secure AI</strong>
+      <p>An offline predictive copilot concept for MPLS network operations in high-security, air-gapped environments.</p>
+      <sub>Python · Network security</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏛️ <a href="https://github.com/sweetyvincent/HeritageVerse">HeritageVerse</a></h3>
-      <p>Digital preservation platform for <strong>cultural heritage</strong> using AI and immersive experiences to bring history alive.</p>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Cultural--Tech-purple?style=flat-square"/>
+      <strong>Culture · Digital preservation</strong>
+      <p>A digital heritage preservation platform using AI and immersive experiences to make cultural history more engaging.</p>
+      <sub>TypeScript · AI · Immersive experiences</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🎯 <a href="https://github.com/sweetyvincent/ApexShot_AI">ApexShot AI</a></h3>
-      <p>AI-driven sports analytics and <strong>shot prediction platform</strong> built in TypeScript for real-time performance insights.</p>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Sports-Analytics-orange?style=flat-square"/>
+      <strong>Sports technology · Predictive analytics</strong>
+      <p>An AI-driven sports analytics and shot-prediction platform built to provide real-time performance insights.</p>
+      <sub>TypeScript · Sports analytics</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📂 More Projects
+## 04 / More from the workshop
 
 <details>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br/>
+<summary><strong>🤖 AI & machine learning</strong></summary>
 
-| Project | Description | Stack |
+| Project | What it explores | Stack |
 |---|---|---|
-| [🎙️ voice-enabled-rag-pipeline](https://github.com/sweetyvincent/voice-enabled-rag-pipeline) | Voice-driven Retrieval-Augmented Generation pipeline | Python |
-| [📊 Resume_Ranker](https://github.com/sweetyvincent/Resume_Ranker) | AI-powered resume ranking and scoring system | Python |
-| [🧠 Minute_Mind](https://github.com/sweetyvincent/Minute_Mind) | Intelligent meeting minute generator | TypeScript |
-| [💚 PulseIQ](https://github.com/sweetyvincent/PulseIQ) | AI-driven health analytics platform | JavaScript |
-| [🌱 ecogenie-app](https://github.com/sweetyvincent/ecogenie-app) | Eco-intelligence assistant for sustainable decisions | JavaScript |
+| [voice-enabled-rag-pipeline](https://github.com/sweetyvincent/voice-enabled-rag-pipeline) | Voice-driven retrieval-augmented generation | Python |
+| [Resume_Ranker](https://github.com/sweetyvincent/Resume_Ranker) | AI-assisted resume ranking and scoring | Python |
+| [Minute_Mind](https://github.com/sweetyvincent/Minute_Mind) | Automated meeting-minute generation | TypeScript |
+| [PulseIQ](https://github.com/sweetyvincent/PulseIQ) | AI-driven health analytics | JavaScript |
+| [ecogenie-app](https://github.com/sweetyvincent/ecogenie-app) | Sustainability-focused eco-intelligence assistant | JavaScript |
 
 </details>
 
 <details>
-<summary><b>📦 Logistics & Data Analytics</b></summary>
-<br/>
+<summary><strong>📦 Logistics & data analytics</strong></summary>
 
-| Project | Description | Stack |
+| Project | What it explores | Stack |
 |---|---|---|
-| [📈 week4-logistics-predictive-modeling](https://github.com/sweetyvincent/week4-logistics-predictive-modeling) | Predictive modeling for logistics supply chains | Python |
-| [🔍 week3-logistics-analysis](https://github.com/sweetyvincent/week3-logistics-analysis) | Deep analysis of logistics data patterns | Python |
-| [🧹 week2-logistics-preprocessing](https://github.com/sweetyvincent/week2-logistics-preprocessing) | Data cleaning and preprocessing for logistics | Python |
-| [🗺️ logistics-strategic-planning-week1](https://github.com/sweetyvincent/logistics-strategic-planning-week1) | Strategic planning framework for logistics | Python |
-| [🛒 PROJECT-01-E-Commerce-Sales-Analysis](https://github.com/sweetyvincent/PROJECT-01-E-Commerce-Sales-Analysis) | E-commerce sales data analysis and insights | Python |
-| [🎬 Data_Analtical_Project-Amazon-Prime-Video-](https://github.com/sweetyvincent/Data_Analtical_Project-Amazon-Prime-Video-) | Amazon Prime Video content analysis & EDA | Jupyter Notebook |
-| [📚 Student-Performance-Analysis](https://github.com/sweetyvincent/Student-Performance-Analysis) | Student performance trends and predictions | Jupyter Notebook |
+| [week4-logistics-predictive-modeling](https://github.com/sweetyvincent/week4-logistics-predictive-modeling) | Predictive modelling for logistics supply chains | Python |
+| [week3-logistics-analysis](https://github.com/sweetyvincent/week3-logistics-analysis) | Logistics data analysis and pattern discovery | Python |
+| [week2-logistics-preprocessing](https://github.com/sweetyvincent/week2-logistics-preprocessing) | Data cleaning and preprocessing | Python |
+| [logistics-strategic-planning-week1](https://github.com/sweetyvincent/logistics-strategic-planning-week1) | Strategic planning for logistics | Python |
+| [PROJECT-01-E-Commerce-Sales-Analysis](https://github.com/sweetyvincent/PROJECT-01-E-Commerce-Sales-Analysis) | E-commerce sales analysis | Python |
+| [Data_Analtical_Project-Amazon-Prime-Video-](https://github.com/sweetyvincent/Data_Analtical_Project-Amazon-Prime-Video-) | Amazon Prime Video content analysis and EDA | Jupyter Notebook |
+| [Student-Performance-Analysis](https://github.com/sweetyvincent/Student-Performance-Analysis) | Student performance analysis | Jupyter Notebook |
 
 </details>
 
 <details>
-<summary><b>🌐 Web & Full-Stack Apps</b></summary>
-<br/>
+<summary><strong>🌐 Web & full-stack applications</strong></summary>
 
-| Project | Description | Stack |
+| Project | What it explores | Stack |
 |---|---|---|
-| [🎉 Celebration-Event-Planner](https://github.com/sweetyvincent/Celebration-Event-Planner) | Smart celebration and event planning tool | JavaScript |
-| [🎊 jashn-celebration-planner](https://github.com/sweetyvincent/jashn-celebration-planner) | Jashn — AI-powered festive event planner | TypeScript |
-| [💨 vayunet-ai](https://github.com/sweetyvincent/vayunet-ai) | Air quality monitoring and AI analytics | JavaScript |
-| [🛡️ shieldwire](https://github.com/sweetyvincent/shieldwire) | Cybersecurity monitoring and alerting platform | TypeScript |
-| [⚽ FIFA_AI_Smart_Stadiums](https://github.com/sweetyvincent/FIFA_AI_Smart_Stadiums) | AI-powered smart stadium experience for FIFA | HTML |
-| [🎮 NeonDefender-Web](https://github.com/sweetyvincent/NeonDefender-Web) | Neon-themed browser-based defense game | JavaScript |
-| [🗳️ election-guide](https://github.com/sweetyvincent/election-guide) | Interactive election process assistant | HTML |
-| [🪪 hhgoa-2026](https://github.com/sweetyvincent/hhgoa-2026) | HH Goa 2026 frame & ID card generator with social share | JavaScript |
-| [🪪 HHG_ID_Card_Generator](https://github.com/sweetyvincent/HHG_ID_Card_Generator) | Branded ID card generator with photo upload | HTML |
+| [Celebration-Event-Planner](https://github.com/sweetyvincent/Celebration-Event-Planner) | Celebration and event planning | JavaScript |
+| [jashn-celebration-planner](https://github.com/sweetyvincent/jashn-celebration-planner) | AI-powered festive event planning | TypeScript |
+| [vayunet-ai](https://github.com/sweetyvincent/vayunet-ai) | Air-quality monitoring and AI analytics | JavaScript |
+| [shieldwire](https://github.com/sweetyvincent/shieldwire) | Cybersecurity monitoring and alerts | TypeScript |
+| [FIFA_AI_Smart_Stadiums](https://github.com/sweetyvincent/FIFA_AI_Smart_Stadiums) | AI-powered smart stadium experience | HTML |
+| [NeonDefender-Web](https://github.com/sweetyvincent/NeonDefender-Web) | Browser-based defence game | JavaScript |
+| [election-guide](https://github.com/sweetyvincent/election-guide) | Interactive election-process assistant | HTML |
+| [hhgoa-2026](https://github.com/sweetyvincent/hhgoa-2026) | Event frame and ID-card generator | JavaScript |
+| [HHG_ID_Card_Generator](https://github.com/sweetyvincent/HHG_ID_Card_Generator) | Branded ID-card generator with photo upload | HTML |
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## 05 / GitHub at a glance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sweetyvincent&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetyvincent&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sweetyvincent&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetyvincent&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sweetyvincent&theme=tokyonight&hide_border=true" height="170"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sweetyvincent&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sweetyvincent&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 06 / Let's connect
+
+Have an interesting problem, an ambitious idea, or a project where AI can make a difference? I'd love to hear about it.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sweetyvincent&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub](https://img.shields.io/badge/Explore_my_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sweetyvincent)
+[![Portfolio](https://img.shields.io/badge/View_portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sweetyvincent.github.io)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sweety-vincent/)
 
-</div>
+<br/>
 
----
+**Building with purpose. Learning without limits. Shipping what matters.**
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sweetyvincent)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sweetyvincent.github.io-blueviolet?style=for-the-badge&logo=github-pages&logoColor=white)](https://sweetyvincent.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sweetyvincent)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**✨ "Building technology that empowers people — one commit at a time." ✨**
-
-*⭐ Star your favourite projects above to show some love!*
+<sub>Thanks for stopping by — feel free to explore a project or start a conversation.</sub>
 
 </div>
